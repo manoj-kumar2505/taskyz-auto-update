@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Taskyz Changelog</title>
+    <item>
+      <title>Version 1.7.2</title>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <sparkle:version>1.7.2</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>Bug fixes and performance improvements</li>
+          </ul>
+        ]]>
+      </description>
+      <!-- macOS Build (.zip containing Taskyz.app) -->
+      <enclosure
+        url="https://api.taskyz.com/download/mac"
+        sparkle:edSignature="U38jzOuIZj3FjSEXEab0wognmLbtvC5k1/tNC8TGllcfxtiwpXE/GUG/8S1m0FuIZtXnxmNZblkeq/cCOzc+Cw=="
+        length="53171369"
+        type="application/octet-stream"
+        sparkle:os="macos" />
+      <!-- Windows Build (.exe) -->
+      <enclosure
+        url="https://api.taskyz.com/download/windows"
+        length="54321000"
+        type="application/octet-stream"
+        sparkle:os="windows" />
+    </item>
+  </channel>
+</rss>
