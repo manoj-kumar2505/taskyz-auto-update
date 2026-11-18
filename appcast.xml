@@ -3,7 +3,7 @@
   <channel>
     <title>Taskyz Changelog</title>
     <item>
-      <title>Version 1.7.2</title>
+      <title>Version 1.7.1</title>
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
       <sparkle:version>1.7.2</sparkle:version>
       <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
@@ -24,7 +24,7 @@
       <!-- Windows Build (.exe) -->
       <enclosure
         url="https://api.taskyz.com/download/windows"
-        length="54321000"
+        length="45420617"
         type="application/octet-stream"
         sparkle:os="windows" />
     </item>
