@@ -16,7 +16,7 @@
       </description>
       <!-- macOS Build (.zip containing Taskyz.app) -->
       <enclosure
-        url="https://github.com/manoj-kumar2505/taskyz-auto-update/releases/download/V1.7.2/Taskyz-mac-1.7.2.zip"
+        url="https://github.com/manoj-kumar2505/taskyz-auto-update/releases/download/V1.7.2/Taaskyz-mac-1.7.2.zip"
         sparkle:edSignature="yQiApZ7g1lvoyHjQKDkxlm+uijIQu5sGkgbWkrmv5plUJFfuy8YRdEVKtf/nu9q3XOVSM67fqRoy9vDq1w0AAQ=="
         length="54607438"
         type="application/octet-stream"
