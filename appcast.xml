@@ -5,7 +5,7 @@
     <item>
       <title>Version 1.7.2</title>
       <pubDate>Mon, 25 Nov 2026 12:00:00 +0000</pubDate>
-      <sparkle:version>172</sparkle:version>
+      <sparkle:version>173</sparkle:version>
       <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
       <description>
         <![CDATA[
@@ -16,15 +16,15 @@
       </description>
       <!-- macOS Build (.zip containing Taskyz.app) -->
       <enclosure
-        url="https://github.com/manoj-kumar2505/taskyz-auto-update/releases/download/V1.7.2_/Taskyz-mac-1.7.2.zip"
-        sparkle:edSignature="Be4mLGe2X5wMRTtnX2J7hD/wkS5H+1FjpoWYOQgEvPpPOiW+yQou13uph0qY0WEJsAUa/U5uA3mTLO/JcG4UAw=="
-        length="56514498"
+        url="https://github.com/manoj-kumar2505/taskyz-auto-update/releases/download/1.7.3/Taskyz-mac-1.7.23.zip"
+        sparkle:edSignature="6VNzsrw8fBqELhmMO0alpSHT1019appFBj8mcIzZ+WwD0EP0/HBTs0xUAPg5I2jmE3fRQoVle/lidWm0U2uAAg=="
+        length="56677572"
         type="application/octet-stream"
         sparkle:os="macos" />
       <!-- Windows Build (.exe) -->
       <enclosure
         url="https://api.taskyz.com/download/windows"
-        length="46542914"
+        length="45693967"
         type="application/octet-stream"
         sparkle:os="windows" />
     </item>
